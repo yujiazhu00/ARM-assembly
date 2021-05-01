@@ -1,5 +1,5 @@
 		; takes the factorial of the number in R0
-    ; results written to R0
+    		; results written to R0
 		MOV		R0, #5
 		MOV		R1, #1
 		MOV		R12, #1
