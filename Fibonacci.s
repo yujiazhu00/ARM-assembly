@@ -1,6 +1,6 @@
 		; specify the nth Fibonacci number to be computed in R3
-    ; The output will be stored in R0
-    MOV		R0, #0 ; x1 = 0
+    		; The output will be stored in R0
+    		MOV		R0, #0 ; x1 = 0
 		MOV		R1, #1 ; x2 = 1
 		MOV		R2, #0 ; x3 = 0 - this is also the register where the results will be stored
 		MOV		R3, #10 ; num2 = 10
